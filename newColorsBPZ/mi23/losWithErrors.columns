@@ -1,0 +1,9 @@
+# Filter columns AB/Vega zp_error zp_offset
+LSSTu    15, 21    AB    0.005    0.0
+LSSTg    16, 22    AB    0.005    0.0
+LSSTr    17, 23   AB    0.005    0.0
+LSSTi    18, 24   AB    0.005    0.0
+LSSTz    19, 25   AB    0.005    0.0
+LSSTy    20, 26   AB    0.005    0.0
+ID    1
+M_0   5
